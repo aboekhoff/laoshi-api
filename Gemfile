@@ -14,6 +14,9 @@ gem 'unicorn'
 # Use Pinyinator
 gem 'pinyinator'
 
+# use jwt for JSON Web Tokens
+gem 'jwt'
+
 # use active model serializers
 gem 'active_model_serializers'
 

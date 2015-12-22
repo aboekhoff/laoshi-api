@@ -11,3 +11,5 @@ User.create(
   email: "boekhoffa@gmail.com",
   password: "password"
 )
+
+Cedict.load()
