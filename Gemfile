@@ -17,6 +17,9 @@ gem 'pinyinator'
 # use jwt for JSON Web Tokens
 gem 'jwt'
 
+# use kaminari for pagination
+gem 'kaminari'
+
 # use active model serializers
 gem 'active_model_serializers'
 

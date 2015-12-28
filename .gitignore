@@ -18,3 +18,5 @@
 
 # Ignore lib/assets
 /lib/assets/*
+
+/public/*

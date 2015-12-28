@@ -1,0 +1,2 @@
+module AuthToken
+end
